@@ -1,1 +1,1 @@
-# Learning_Projects_Credit_Card_Application
+# Capstone Project for Data Science Bootcamp with Vertical Institute
